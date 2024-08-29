@@ -84,14 +84,23 @@ p{ height: 70px;
     background-color: #1A4D2E;
     color: #E8DFCA;
     font-size: 18px;
+    padding: 10px;
+    border-radius: 15px;
 }
 .second-button{
     background-color: #686D76;
     color: #E8DFCA;
     font-size: 18px;
+    padding: 10px;
+    border-radius: 15px;
 }
 .third-button{
     background-color: #141E46;
     color: #E8DFCA;
     font-size: 18px;
+    padding: 10px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
 }
